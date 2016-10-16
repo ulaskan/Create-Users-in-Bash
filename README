@@ -7,5 +7,5 @@ This program takes in a user input from .csv file. The template file UserList.cs
 
 Please note the Home Directory for user folders to be created in must already exist system. In addition the groups that the users will belong to must also exist, otherwise the script will not execute
 
-The script must be run with root permissions.
+The script must be run with root permissions. When a newly created user logs in the user is forced to change their password.
 
