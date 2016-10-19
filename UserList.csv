@@ -1,0 +1,4 @@
+UserName ,HomeDirectory,Shell,UserInfo,Group,Password
+jsmith,/home/company/,/bin/bash,John Smith,Accounting,Pass1234
+hjones,/home/company/,/bin/bash,Hillary Jones,HumanResources,Pass1234
+ctempest,/home/company/,/bin/bash,Carl Tempest,HumanResources,Pass1234
