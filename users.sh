@@ -1,5 +1,5 @@
 #!/bin/bash
-# Author: Ulas Askan
+# Author: ulaskan
 # Date: 16 Oct 2016
 
 clear

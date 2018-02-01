@@ -1,6 +1,6 @@
 Bash script that creates user from information read from a .csv file 
 
-Author: Ulas Askan
+Author: ulaskan
 Date: 16 Oct 2016
 
 This program takes in a user input from .csv file. The template file UserList.csv has been included. Therefore calling the program as ./users UserList.csv will create the 3 users. 
